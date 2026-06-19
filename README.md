@@ -1,7 +1,5 @@
 - Haii, I’m Arts, otherwise known as @ArtsNCrafters
 -  I’m currently interested in programming and funny stuff
--  I’m currently learning Visual Basic
--  I’m looking to collaborate on Funny projects in Visual Studio
 -  How to reach me By email. howtoliveinpain@gmail.com
 -  Pronouns: He/Him
 -  Fun fact: There's no freaky that I wouldn't do
