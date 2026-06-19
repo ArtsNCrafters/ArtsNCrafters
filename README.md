@@ -1,4 +1,4 @@
-- Haii, I’m Anders, otherwise known as @ArtsNCrafters
+- Haii, I’m Arts, otherwise known as @ArtsNCrafters
 -  I’m currently interested in programming and funny stuff
 -  I’m currently learning Visual Basic
 -  I’m looking to collaborate on Funny projects in Visual Studio
